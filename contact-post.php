@@ -1,0 +1,1 @@
+{"type":"error","text":"Name<\/b>, Email<\/b>, Phone Number<\/b>, Only 10 digit number in mobile number Required!"}

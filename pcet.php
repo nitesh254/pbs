@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9]><html class="ie ie9" lang="en"> <![endif]-->
+<html lang="en">
+  <!--<![endif]-->
+
+  <head>
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8" />
+	<title>About  Pimpri Chinchwad Education Trust (PCET) | Masters and PhD level | Diploma, Bachelor</title>
+<meta name="description" content="PCET's gives prominence to offering excellent education and this unrelenting pursuit for excellence has earned it a lot of respect among other trusts in the area." />
+ <meta name="keyword" content="About  Pimpri Chinchwad Education Trust (PCET), Masters and PHD level, Diploma, Bachelor, Best PGDM College in Pune, top MBA colleges in India, Advanced Excel, Admission top PGDM college in India, top PGDM college in Pune, Admission best MBA colleges in Pune, Pune MBA colleges, Best PGDM colleges in Pune, top 10 MBA colleges in Pune, list of MBA colleges in Pune, Admission MBA colleges in Pune with fee structure, good MBA colleges in Pune, Direct Admission best PGDM colleges in Pune, best MBA colleges in India, PGDM, PGDM College, Pune, PGDM Colleges.">
+<link rel="canonical" href="https://punebusinessschool.com/pcet.php" />
+    <meta name="author" content="Pune Business School" />
+
+    <!-- Favicons-->
+    <link rel="shortcut icon" href="./images/PBS logo.png" type="image/x-icon" />
+    <link
+      rel="apple-touch-icon"
+      type="image/x-icon"
+      href="img/apple-touch-icon-57x57-precomposed.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      type="image/x-icon"
+      sizes="72x72"
+      href="img/apple-touch-icon-72x72-precomposed.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      type="image/x-icon"
+      sizes="114x114"
+      href="img/apple-touch-icon-114x114-precomposed.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      type="image/x-icon"
+      sizes="144x144"
+      href="img/apple-touch-icon-144x144-precomposed.png"
+    />
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/megamenu.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
+    <!--link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet"-->
+   <!-- <link
+      href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
+      rel="stylesheet"
+    />-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="font-awesome/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/jquery.fancybox.css" />
+
+    <!-- REVOLUTION BANNER CSS SETTINGS -->
+    <link rel="stylesheet" href="css/fullwidth.css" media="screen" />
+    <link rel="stylesheet" href="rs-plugin/css/settings.css" media="screen" />
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Jquery -->
+    <script src="js/jquery.js"></script>
+    <!-- Support media queries for IE8 -->
+    <script src="js/respond.min.js"></script>
+
+    <!-- HTML5 and CSS3-in older browsers-->
+    <script src="js/modernizr.custom.17475.js"></script>
+
+    <!--[if IE 7]>
+      <link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css" />
+    <![endif]-->
+
+    <!-- Style switcher-->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      media="screen,projection"
+      href="src/jquery-sticklr-1.4-light-color.css"
+    />
+    <!-- Fonts-->
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/helvetica.css"
+      title="helvetica"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/cabin.css"
+      title="cabin"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/droid.css"
+      title="droid"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/lato.css"
+      title="lato"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/montserrat.css"
+      title="montserrat"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/opensans.css"
+      title="opensans"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/quattrocento.css"
+      title="quattrocento"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/roboto.css"
+      title="roboto"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/robotoslab.css"
+      title="robotoslab"
+      media="all"
+    />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-181409258-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-181409258-1');
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '163216281918646');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=163216281918646&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <link rel="stylesheet" href="./css/update.css" />
+
+
+    <style type="text/css">
+       .whatsapp {
+           position: fixed;
+           left: 0px;
+           top: 65%;
+           z-index: 1;
+           float: left;
+           border-radius: 50%;
+       }
+       .whatsapp h5 {
+           color: white;
+           background: #20b20f;
+           padding: 12px;
+           border-radius: 50%;
+       }
+    </style>
+
+
+    
+  </head>
+
+  <body>
+     
+    <div id="top-bar">
+      <ul>
+<li>
+          <a href="https://www.facebook.com/punebschool" target="_blank"
+            ><i class="fa fa-facebook"></i
+          ></a>
+        </li>
+        <li>
+          <a href="https://twitter.com/school_pune" target="_blank"
+            ><i class="fa fa-twitter"></i
+          ></a>
+        </li>
+        <li>
+          <a
+            href="https://www.linkedin.com/company/pbspune"
+            target="_blank"
+            ><i class="fa fa-linkedin"></i
+          ></a>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/channel/UCaU7qokBAhIohJkzfLk1yPg" target="_blank"
+            ><i class="fa fa-youtube"></i
+          ></a>
+        </li>
+
+        <li>
+          <a href="https://www.instagram.com/punebschool/" target="_blank"
+            ><i class="fa fa-instagram"></i
+          ></a>
+        </li>
+        <li>
+          <a href="mailto:info@punebusinessschool.com" target="_blank"
+            ><i class="fa fa-envelope"></i
+          ></a>
+        </li>
+        <li>
+          <a href="tel:+9191564 23225"><i class="fa fa-phone"></i></a>
+        </li>
+       
+        <li>
+          <a
+            href="applyatpbs.php"
+            target="_blank"
+            title="Apply Online"
+            style="color: #e6730f;"
+            >Apply Online</a
+          >
+        </li>
+      </ul>
+    </div>
+
+    <header>
+         <?php include("header.php")?> 
+    </header>
+    <!-- End Header-->
+   
+  <nav>
+      <?php include("nav.php")?>
+  </nav>
+    <div class="row" id="bgImage">
+      <h2
+        class="container content text-uppercase"
+        style="color: rgb(157, 18, 20)"
+      >
+        About pcet
+      </h2>
+    </div>
+    <hr />
+    <div class="container text-justify">
+      <p class="lead">
+        <strong>Pimpri Chinchwad Education Trust (P.C.E.T)</strong> was
+        established in the year 1990 by renowned Philanthropist and social
+        activist <strong>Late Shri S. B. Patil</strong> with a mission to serve
+        the society, industry &amp; stakeholders through value added quality
+        education from Nursery to Doctoral studies. The trust is committed to
+        its mission by Creating, Communicating, Preserving and Applying
+        Knowledge, Art and Academic Values. PCET has expanded in a relatively
+        short span of time to include
+        <strong
+          >9 institutions offering 11 diverse academic programs at the school,
+          diploma, bachelor, Masters and PhD level.</strong
+        >
+      </p>
+      <p class="lead">
+        More than 45000 students have passed out since the inception. There are
+        currently about 14,500 students enrolled at the University with academic
+        instructions delivered by 650 plus faculty members having diverse
+        international experience and renowned stature. The trust attracts
+        talented students from different backgrounds. It is a melting pot of
+        diverse cultures. The major objective of the trust is to inspire a
+        culture of curiosity and create an environment with the best state-of
+        the art facilities in the pursuit of academic excellence. The trust
+        aspires to be the centre of exemplary research and be at par with some
+        of the best institutions in the country. The decisions of the trust are
+        guided by the integrity of best expertise and what is good for the
+        advancement of learning, education and research.
+      </p>
+      <p class="lead">
+        PCET is highly ranked not only in Pune but all over Maharashtra.
+        S.B.Patil Institute of Management was established with an effort to
+        strengthen and fulfill the need of management education in Pune. The
+        trust plans to continue this by offering a comprehensive and
+        multi-disciplinary PGDM programme that is recognized by the All India
+        Council for Technical Education [AICTE]. The programme will enjoy
+        considerable infrastructure for learning and research and manage to
+        attract renowned faculty with academic heft. Pune Business School (PBS)
+        will decidedly be international in outlook and vision and in the
+        composition of their student and faculty population. PCET has a
+        long-term association and has signed MOU’s/co-operation agreements
+        /strategic alliances with (number) leading academic institutions. These
+        alliances have helped in strengthening the agreements to ensure that the
+        students’ education needs meet the highest international standards.
+      </p>
+      <p class="lead">
+        The campus provides spacious facilities that include rich libraries,
+        state-of-the-art IT infrastructure, multimedia study halls, advanced
+        scientific and research laboratories and computing labs, student centers
+        with access to a cafe, mess facilities, canteen facility etc. There are
+        also separate residential areas for male and female students. PCET's
+        gives prominence to offering excellent education and this unrelenting
+        pursuit for excellence has earned it a lot of respect among other trusts
+        in the area. Harboring a diverse cultural mix, extensive academic
+        programs and elegant campus settings are but a few of the remarkable
+        characteristics of the PCET trust.
+      </p>
+    </div>
+    <div class="container inspiration" id="blog">
+      <div class="">
+        <h4
+          class="content text-uppercase text-center"
+          style="color: rgb(157, 18, 20)"
+        >
+          Our Inspiration
+        </h4>
+        <hr />
+
+        <div class="col-md-6 contentpadding text-center">
+          <p>
+            <img
+              src="images/trutees/inspiration1.jpg"
+              alt="PCCOE Engineering Colleges In Pune with high rank in university"
+            />
+          </p>
+
+          <div class="row">
+            <h5>Late. Shri. Shankarrao B. Patil</h5>
+          </div>
+          <div class="para1 text-center">
+            Founder President, <br />
+            Pimpri Chinchwad Education Trust
+          </div>
+        </div>
+
+        <div class="col-md-6 contentpadding text-center">
+          <p>
+            <img
+              src="images/trutees/inspiration2.jpg"
+              class="img-rounded"
+              alt="Best PGDM College in Pune"
+            />
+          </p>
+
+          <div class="row">
+            <h5>Late. Smt. Lilatai Shankarrao Patil</h5>
+          </div>
+          <div class="para1 text-center">
+            Ex President, <br />
+            Pimpri Chinchwad Education Trust
+          </div>
+        </div>
+        <br />
+        <br />
+        <h4
+          class="content text-uppercase text-center"
+          style="color: rgb(157, 18, 20)"
+        >
+          Board of Trustees
+        </h4>
+        <hr />
+        <br />
+
+        <div class="col-md-4 contentpadding text-center">
+          <p>
+            <img
+              src="images/trutees/Shri.-D.-P.-Landge.jpg"
+              alt="Pune Business having the experienced teaching staff"
+            />
+          </p>
+
+          <div class="row">
+            <h6>Shri.Dnyaneshwar P. Landge</h6>
+          </div>
+          <div class="para1 text-center">Chairman</div>
+        </div>
+
+        <div class="col-md-4 contentpadding text-center">
+          <p>
+            <img
+              src="images/trutees/Smt.-Padmatai-Bhosale.jpg"
+              alt="Best Business School in Pune"
+            />
+          </p>
+
+          <div class="row">
+            <h6>Smt. Padmatai M. Bhosale</h6>
+          </div>
+          <div class="para1 text-center">Vice Chairperson</div>
+        </div>
+
+        <div class="col-md-4 contentpadding text-center">
+          <p>
+            <img
+              src="images/trutees/Shri.-V.-S.-Kalbhor.jpg"
+              alt="PBS  is the best Management school of pune"
+            />
+          </p>
+
+          <div class="row">
+            <h6>Shri. Vitthal S. Kalbhor</h6>
+          </div>
+          <div class="para1 text-center">Secretary</div>
+        </div>
+      </div>
+
+      <div class="clear"></div>
+
+      <div class="row">
+        <div class="col-md-4 contentpadding text-center">
+          <p>
+            <img
+              src="images/trutees/Shri_s_d_garade.jpg"
+              alt="Best PGDM College in Pune"
+            />
+          </p>
+
+          <div class="row">
+            <h6>Shri. Shantaram D. Garade</h6>
+          </div>
+          <div class="para1 text-center">Treasurer</div>
+        </div>
+
+        <div class="col-md-4 contentpadding text-center">
+          <p>
+            <img
+              src="images/trutees/Shri.-Harshwardhan-S.-Patil.jpg"
+              alt="PCET's Pune Business School"
+            />
+          </p>
+
+          <div class="row">
+            <h6>Shri. Harshwardhan S. Patil</h6>
+          </div>
+          <div class="para1 text-center">Trustee</div>
+        </div>
+
+       <!-- <div class="col-md-4 contentpadding text-center">
+          <p>
+            <img
+              src="images/trutees/Shri.-Bhaijan-Kazi.jpg"
+              alt="PCCOE is the best engineering college in Pune"
+            />
+          </p>
+
+          <div class="row">
+            <h6>Shri. Bhaijan Kazi</h6>
+          </div>
+          <div class="para1 text-center">Trustee</div>
+        </div>-->
+      </div>
+    </div>
+    <!-- end container-->
+
+    <footer>
+        <?php include("footer.php")?>
+    </footer>
+    <!-- End footer-->
+
+      <div class="whatsapp" style="float: left;">
+    <a href="https://api.whatsapp.com/send?phone=919156423224" target="_blank">    
+    <h5><img src="img/whatsapp.png" height="70px" width="70px"></h5></a>
+    </div>
+
+    <div id="toTop">Back to Top</div>
+    <!-- MEGAMENU -->
+
+    <script src="js/jquery.easing.js"></script>
+    <script src="js/megamenu.js"></script>
+
+    <!-- OTHER JS -->
+    <script src="js/bootstrap.js"></script>
+    <script src="js/functions.js"></script>
+    <script src="assets/validate.js"></script>
+
+    <!-- FANCYBOX -->
+    <script
+      src="js/fancybox/source/jquery.fancybox.pack.js?v=2.1.4"
+      type="text/javascript"
+    ></script>
+    <script
+      src="js/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.5"
+      type="text/javascript"
+    ></script>
+    <script src="js/fancy_func.js" type="text/javascript"></script>
+
+    <!-- REVOLUTION SLIDER -->
+    <script src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+    <script
+      type="text/javascript"
+      src="rs-plugin/js/jquery.themepunch.revolution.min.js"
+    ></script>
+    <script src="js/revolutio-slider-func.js"></script>
+
+    <!-- STYLE SWITCHER -->
+    <script type="text/javascript" src="src/jquery-sticklr-1.4.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $("#example-1").sticklr({
+          animate: true,
+          showOn: "hover"
+        });
+      });
+    </script>
+    <script type="text/javascript" src="src/fswit.js"></script>
+ <script src="./js/hash.js"></script>
+   <!-- <script src="./js/pages.js"></script>-->
+  </body>
+</html>
